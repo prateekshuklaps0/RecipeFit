@@ -2,7 +2,7 @@
 
 RecipeSnap is a delightful and interactive recipe website aims to inspire food enthusiasts by providing a user-friendly platform to explore, share, and discover a diverse range of mouthwatering recipes.
 
-Link : [ https://recipefit.vercel.app](https://recipefit.vercel.app)
+Link : [https://recipefit.vercel.app](https://recipefit.vercel.app)
 
 ### Features:-
 
